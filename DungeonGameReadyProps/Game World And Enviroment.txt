@@ -1,0 +1,212 @@
+DUNGEON GAME AREAS AND ENVIROMENT!!!!!!
+
+Area 1: Sewers
+
+Enemies:
+-Rats (Paralyze)
+-Snakes (Poison)
+-Thiefs
+
+Boss:
+-Thief leader
+
+Loot:
+-Crates
+-Barrels
+
+Enviroment:
+-Wet
+-Dark
+-Cold
+-Mossy
+-Dirty
+
+Floor, walls etc.:
+-Stone blocks/Bricks
+-Water
+-Wood
+-Pipes
+
+Traps:
+-Mines<
+
+Helpfuls:
+-Secret stashes<
+
+Tilesheet Contains:
+-Floor<
+-Walls<
+-Doorway<
+-Doorway w/door<
+-Traps<
+-Ladders<
+-Void<
+-Water tiles
+-Wood floor<
+-Sign<
+-Pipe<
+-Structure collapse
+-Boss door<
+
+--------------------------------------------------------------------------------
+
+Area 2: Old Dungeon/Prison
+
+Enemies:
+-Ghouls (Bleed)
+-Spirits (Paralyze)
+-Outcasts (Criminals and Bandits)
+
+Boss:
+-Torture master ghoul
+
+Loot:
+-Chests
+-Dead bodies
+
+Enviroment:
+-Dark
+-Evil
+-Haunted
+-Dirty
+
+Floor, walls, etc.:
+-Stone blocks
+-Brick
+-Metal bars
+-Stone/Dirt ground
+-Pillars
+-Wooden/ Iron doors
+
+Traps:
+-Pressureplates
+
+Helpfuls:
+-Armories
+-Outcast merchant
+
+Tilesheet contains:
+-Floor
+-Walls
+-Doorway
+-Doorway w/door
+-Traps
+-Stairs
+-Void
+-Water tiles
+-Wood floor
+-Sign
+-Structure collapse
+-Boss door
+-
+--------------------------------------------------------------------------------
+
+Area 3: Catacombs
+
+Enemies:
+-Undead
+-Witches/Necromancers
+-Skeletons
+-Mummies
+
+Boss: Master Necromancer
+
+Loot:
+-Graves
+-Chests
+-Remains
+
+Enviroment:
+-Lots of bodies/skeletons
+-Evil
+-Stoney
+
+Floor, walls etc.:
+-Stone
+-Skeletons
+-Wood
+
+Traps:
+-Magic wards
+
+Helpfuls:
+-Alchemy room
+-Necromancers potion/magic stashes
+-Undead Merchant
+--------------------------------------------------------------------------------
+
+Area 4: Magical Underground Plains
+
+Enemies: Magical creatures
+-Fairies
+-Trolls
+-Medusas
+-Nymphs
+
+Boss: Hydra/Dragon/Serpent
+
+Loot:
+-Chests
+-Grass/Bush
+-Hollow trees/Stumps
+
+Enviroment:
+-Forest
+-Magical
+-Fantasy
+-Spring
+-Meadow
+-Colorful
+
+Floor, walls, etc.:
+-Grass
+-Dirt
+-Wood
+-Fountains
+-Ponds
+-Mushrooms
+-Flowers
+
+Traps:
+-Magic wards
+
+Helpfuls:
+-Healing fountain
+-Leprechaun merchant
+--------------------------------------------------------------------------------
+
+Area 5: The Underworld
+
+Enemies:
+-reapers
+-Skeletons
+-spiders
+-undead
+-Ghosts
+-Spirits
+-Vampires
+
+Boss: Lord Of The Dead
+
+Loot:
+-Chests
+-Bodies
+
+Enviroment:
+-Dark
+-Evil
+-Deadly
+-Magical
+
+Floor, walls, etc.:
+-Stone
+-Bricks
+-Dead ground
+-Dead trees
+
+Traps:
+-Magic wards
+
+Helpfuls:
+-
+-
