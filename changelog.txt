@@ -1,37 +1,20 @@
 ﻿************************************************************
 Muutosloki - Changelog
 27.7.2015 20:53
+31.7.2015 10:45
 ************************************************************
-
-***************
-Focus:
-
-- Menut, alkuvalikkoon audiotoggle/off, characterSelect
-- HUD, healthbar, 
-- Tekstiboxit, spawnissa pelaajalle kontrolleista ohjeet
 
 
 ***************
 Kommentit:
-
-Scenet - '0_menu' ja '2_game' käytössä, '1_game' ei ole pelissä käytössä
 https://www.youtube.com/watch?v=VYQAJInCtd4
 
 
 ***************
-Muutokset:
-Ladattu pikselimäinen fontti menuja ja tekstiboxeja varten
-Lisätty GUI_package Moodlesta, korjataan menujen kuvakkeet myöhemmin
-
-
-
-
-***************
 Ongelmat:
-Healthbar - kääntyy visuaalisesti ympäri liikkumis-animaation mukana
-Töksähtelevä liikkuminen - boxCollider?
-Miekka väärällä puolella - miekka heiluu kilven puolella (invertoidaan left/right imaget koodissa)
-Lyöntimekaniikka single/auto - koodissa getKeyDown/getKey
-Vihollinen ei tule loppuun asti päälle - pelaajan nopeutta alas?
 Lamppuefekti olisi hyvä lisätä (halo)
 Pelaaja voi mennä maaliin ennekuin vihut on tapettu
+Vihuilla ei liikkumisanimaatiota
+Tarinan sijoittaminen peliin
+Puisille kylteille tekstiominaisuus
+Ääni
